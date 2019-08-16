@@ -2,7 +2,7 @@ package com.zqx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//zqx的springboot工具234
+//zqx的springboot 21：20
 @SpringBootApplication
 public class ZqxNb66Application {
 	
